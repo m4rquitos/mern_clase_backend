@@ -1,7 +1,7 @@
 const DB_USER = "admin"
 const DB_PASSWORD = "0123456789"
 
-const DB_HOST = "cluster0.7mv4tzq.mongodb.net"
+const DB_HOST = "cluster0.7mv4tzq.mongodb.net/"
 
 const API_VERSION = "v1"
 const IP_SERVER = "localhost"
