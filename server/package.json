@@ -1,0 +1,23 @@
+{
+  "name": "webpersonal",
+  "version": "0.0.1",
+  "description": "api rest web personal",
+  "main": "index.js",
+  "author": "JuanferGG",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "1.20.0",
+    "connect-multiparty": "^2.2.0",
+    "cors": "2.8.5",
+    "express": "4.18.1",
+    "jsonwebtoken": "8.5.1",
+    "mongoose": "6.6.1",
+    "mongoose-paginate": "^5.0.3",
+    "nodemon": "^3.0.1"
+  }
+}
